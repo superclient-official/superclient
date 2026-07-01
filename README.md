@@ -1,2 +1,2 @@
-# superclient
-SuperClient info type shii
+# SuperClient
+One of the best Minecraft cheat client on the market.
